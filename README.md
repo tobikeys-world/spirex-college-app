@@ -2,7 +2,7 @@
 
 A modern, responsive college management frontend built with HTML, CSS, and JavaScript as part of the SpireX Foundation Frontend Internship — Task 15.
 
-🌐 Preview
+## 📸 Preview
 
 !["EduSphere College light Preview"](assets/Desktop%20Light.png)
 !["EduSphere College dark Preview"](assets/Desktop%20dark.png)
