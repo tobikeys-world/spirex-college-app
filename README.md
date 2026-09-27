@@ -4,8 +4,6 @@ A modern, responsive college management frontend built with HTML, CSS, and JavaS
 
 🌐 Preview
 
-«Live Demo: Add your deployed Vercel/Netlify link here after deployment.»
-
 !["EduSphere College light Preview"](assets/Desktop%20Light.png)
 !["EduSphere College dark Preview"](assets/Desktop%20dark.png)
 !["EduSphere College light mobie Preview"](assets/Mobile%20light.png)
